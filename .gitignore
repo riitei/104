@@ -5,6 +5,7 @@ test.py
 .gitignore
 Config.ini
 test_code/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
